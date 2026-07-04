@@ -35,7 +35,7 @@ credit-card-fraud-detection/
 ## 🛠️ Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/akashsingh41882-byte/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 python -m venv venv && source venv/bin/activate   # optional but recommended
 pip install -r requirements.txt
