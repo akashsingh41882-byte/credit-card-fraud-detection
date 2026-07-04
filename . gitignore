@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+*.egg-info/
+
+# Large/generated data & models (regenerate locally instead of committing)
+data/creditcard.csv
+data/new_transactions.csv
+models/*.joblib
+predictions.csv
+
+.DS_Store
